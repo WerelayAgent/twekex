@@ -7,7 +7,7 @@
       "destination": "https://www.twek.app/api/:path*"
     },
     {
-      "source": "/(.*)",
+      "source": "/((?!assets/|favicon\\.ico|favicon\\.svg|TWEKEXPFP\\.jpg).*)",
       "destination": "/index.html"
     }
   ]
