@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="/TWEKPFP.jpg" />
+    <link rel="apple-touch-icon" href="/TWEKPFP.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#141218" />
+    <meta
+      name="description"
+      content="TWEK — post $TWEK, get scored, get paid. A public bounty on a cashtag."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Figtree:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <title>TWEK - Post $TWEK. Cash the tweet.</title>
+    <script type="module" crossorigin src="/assets/index-BtGE25vS.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/rolldown-runtime-C_s2cVnS.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-BtlgDCUa.js">
+    <link rel="modulepreload" crossorigin href="/assets/jsx-runtime-oasPEigq.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-dom-CJUgHYCJ.js">
+    <link rel="modulepreload" crossorigin href="/assets/utils-BXiNjgTj.js">
+    <link rel="modulepreload" crossorigin href="/assets/isAddress-DL9EZBe8.js">
+    <link rel="modulepreload" crossorigin href="/assets/utils-oVEYY1QK.js">
+    <link rel="modulepreload" crossorigin href="/assets/ccip-CqDZXO9s.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-T9bWcO7u.js">
+    <link rel="modulepreload" crossorigin href="/assets/privy-context-BRYUJfjv-Dj41eyut.js">
+    <link rel="modulepreload" crossorigin href="/assets/secp256k1-2hSoxiMo.js">
+    <link rel="modulepreload" crossorigin href="/assets/_esm-Cj9kmnSk.js">
+    <link rel="modulepreload" crossorigin href="/assets/sendTransaction-By_4yXQx.js">
+    <link rel="modulepreload" crossorigin href="/assets/tempoModerato-C63vn99o.js">
+    <link rel="modulepreload" crossorigin href="/assets/esm-DJNUAQDg.js">
+    <link rel="modulepreload" crossorigin href="/assets/esm-CdofhbvN.js">
+    <link rel="modulepreload" crossorigin href="/assets/prepareAuthorization-BlkkPNDL.js">
+    <link rel="modulepreload" crossorigin href="/assets/user-DHmupS1J-D5Kxa5xR.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-4qkeZCGY.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-Dl07uGq1.js">
+    <link rel="modulepreload" crossorigin href="/assets/ofetch.CWycOUEr-CHp-crOQ.js">
+    <link rel="modulepreload" crossorigin href="/assets/errors-Mtc3QHX0-Bsi7qlTI.js">
+    <link rel="modulepreload" crossorigin href="/assets/storage-D-IGsEB7-dSI227AM.js">
+    <link rel="modulepreload" crossorigin href="/assets/wallet-connect-DRuLaz_S-WFUy1Ane.js">
+    <link rel="modulepreload" crossorigin href="/assets/lib-6NZn20JM.js">
+    <link rel="modulepreload" crossorigin href="/assets/index-DHFGYoaM-vLsXnR9t.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-2S8cLPsV.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-BZmY2Jdz.js">
+    <link rel="modulepreload" crossorigin href="/assets/hooks.module-QanQLMCy.js">
+    <link rel="modulepreload" crossorigin href="/assets/index.es-BzgQLQX-.js">
+    <link rel="modulepreload" crossorigin href="/assets/dist-CoS6E-3x.js">
+    <link rel="modulepreload" crossorigin href="/assets/index.es-De8IkDbe.js">
+    <link rel="modulepreload" crossorigin href="/assets/pkce-CC_oPhN6-Bb7JMj6H.js">
+    <link rel="modulepreload" crossorigin href="/assets/PrivyPluginContext-DA-yS5vO-D9zl-Hbv.js">
+    <link rel="modulepreload" crossorigin href="/assets/toViemAccount-B_eTbPuQ-CWG5FXWK.js">
+    <link rel="modulepreload" crossorigin href="/assets/id-UqEwL2BI-DBaJPjJB.js">
+    <link rel="modulepreload" crossorigin href="/assets/Loader-UAZqxsnw-BnE8ts-N.js">
+    <link rel="modulepreload" crossorigin href="/assets/modal-context-BpGxq348-CoPrT__S.js">
+    <link rel="modulepreload" crossorigin href="/assets/usdc-BeozJF6r-DzIYTZjd.js">
+    <link rel="modulepreload" crossorigin href="/assets/get-entropy-details-for-user-C6uoS7sa-Ct2jBoDD.js">
+    <link rel="modulepreload" crossorigin href="/assets/esm-CG_aiq74.js">
+    <link rel="modulepreload" crossorigin href="/assets/usePrivy-BxT2wrZ0-BpLBMEjt.js">
+    <link rel="modulepreload" crossorigin href="/assets/useActiveWallet-DdbJZqvd-9KOFkfg2.js">
+    <link rel="modulepreload" crossorigin href="/assets/esm-C3DslVJx.js">
+    <link rel="modulepreload" crossorigin href="/assets/use-deposit-address-BgRU-gr0-isKQgreo.js">
+    <link rel="modulepreload" crossorigin href="/assets/index-BcpLdFr2-B2ambFec.js">
+    <link rel="modulepreload" crossorigin href="/assets/useSolanaRpcClient-BMr8GHzD-CHS9G20b.js">
+    <link rel="modulepreload" crossorigin href="/assets/use-sign-with-user-signer-jWmioOcp-CMpVStnq.js">
+    <link rel="modulepreload" crossorigin href="/assets/useWallets-C2vabaSx-Cs0mEtNN.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-BvnXzPMv.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
